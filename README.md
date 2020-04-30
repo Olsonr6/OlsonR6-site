@@ -1,2 +1,2 @@
-# OlsonR6.github.io-site-
+# OlsonR6-site-
 Website for EatonRESA

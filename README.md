@@ -1,2 +1,2 @@
-# OlsonR6-site-
+# OlsonR6-site
 Website for EatonRESA
